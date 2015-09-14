@@ -2,6 +2,11 @@ package org.zzh.robinmvc.handler;
 
 import java.lang.reflect.InvocationTargetException;
 
+/**
+ * 真正执行方法的封装类
+ * @author zhangzhihao
+ *
+ */
 public class Execution {
 	
 	private HandlerMethod handlerMethod;

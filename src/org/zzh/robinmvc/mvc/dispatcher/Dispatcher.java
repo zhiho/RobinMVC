@@ -146,7 +146,7 @@ public class Dispatcher {
 			HttpServletResponse resp, Object result) throws Exception
 	{
 		if(result == null)
-		{
+		{ 
 			return;
 		}
 		if(result instanceof Render)

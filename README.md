@@ -1,3 +1,5 @@
 # RobinMVC
 A simple Web MVC  framework
-s
+
+###RobinMVC的流程图
+![image](https://github.com/zhiho/RobinMVC/RobinMVC.png)
